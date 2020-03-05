@@ -1,0 +1,1 @@
+var msg = 'Some new module1';
